@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;700&display=swap');
 
-/*For mobile phones: */
 
 * {
     margin: 0;
@@ -353,7 +352,8 @@ div.footer h6 {
     font-size: 1rem;
     padding-top: 6rem;
 }
-
+ 
+/** For mobile phones**/
 
 @media screen and (max-width: 900px) {
 
